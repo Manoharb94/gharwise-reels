@@ -1,0 +1,363 @@
+[
+ {
+  "id": "t01",
+  "slug": "where_did_salary_go",
+  "status": "posted",
+  "slides": [],
+  "caption": ""
+ },
+ {
+  "id": "t02",
+  "slug": "savings_goals",
+  "status": "pending",
+  "caption": "Saving without a goal never lasts. 🎯\n\nIn Gharwise, set a goal (Goa trip, emergency fund, new car), pick a date, and see exactly how much to save each month and whether you are ahead or behind.\n\nSave this and start your first goal today. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #savingsgoals",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Savings goals",
+    "title": "Saving without a goal never lasts.",
+    "sub": "Here is how to give every rupee a purpose.",
+    "size": 92
+   },
+   {
+    "type": "shot",
+    "step": "Step 1 · Pick a goal",
+    "title": "Name it. Set the amount and date.",
+    "sub": "Goa trip, emergency fund, a new car. Gharwise works out how much to put aside every month.",
+    "screen": "goals"
+   },
+   {
+    "type": "shot",
+    "step": "Step 2 · Track progress",
+    "title": "See if you are ahead or behind.",
+    "sub": "Every goal has a progress bar and a monthly target, so you know where you stand at a glance.",
+    "screen": "goals"
+   },
+   {
+    "type": "shot",
+    "step": "Step 3 · Know what is left",
+    "title": "What is left becomes savings.",
+    "sub": "Gharwise shows what is left over this month, so you can decide how much goes to goals.",
+    "screen": "home_family"
+   },
+   {
+    "type": "cta",
+    "title": "Give your money a job",
+    "sub": "Set your first savings goal in Gharwise.",
+    "foot": "Save this post · Send it to your spouse"
+   }
+  ]
+ },
+ {
+  "id": "t03",
+  "slug": "fixed_expenses",
+  "status": "pending",
+  "caption": "EMIs, school fees, rent, insurance: the bills that never change should never surprise you. 📅\n\nAdd them once in Gharwise with a due day, and your month is planned for you.\n\nSave this post. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #emi #homeloan",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Fixed expenses",
+    "title": "The bills that surprise you every month.",
+    "sub": "They should not. Here is the fix.",
+    "size": 88
+   },
+   {
+    "type": "list",
+    "step": "The problem",
+    "title": "Big bills, small memory.",
+    "items": [
+     "✗&nbsp; EMI day arrives and the account is low",
+     "✗&nbsp; School fees land on top of other spends",
+     "✗&nbsp; Yearly insurance is forgotten until it is due"
+    ],
+    "foot": "Add them once →"
+   },
+   {
+    "type": "shot",
+    "step": "Step 1 · Add once",
+    "title": "Add EMIs, fees and bills one time.",
+    "sub": "Name, amount, due day, monthly or yearly. That is all Gharwise needs.",
+    "screen": "fixed"
+   },
+   {
+    "type": "shot",
+    "step": "Step 2 · See the forecast",
+    "title": "Know next month before it starts.",
+    "sub": "Gharwise adds your fixed items to your usual spending and shows the expected left over.",
+    "screen": "rep_next"
+   },
+   {
+    "type": "cta",
+    "title": "Plan your month in advance",
+    "sub": "Add your fixed expenses to Gharwise today.",
+    "foot": "Save this post · Share with your spouse"
+   }
+  ]
+ },
+ {
+  "id": "t04",
+  "slug": "monthly_budget",
+  "status": "pending",
+  "caption": "A budget is just a limit you can see. 👀\n\nSet a monthly limit for groceries, fuel, dining out and more in Gharwise, and watch the bar fill as you spend.\n\nSave this post. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #budget",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Budgeting",
+    "title": "A budget is just a limit you can see.",
+    "sub": "Set it once. Gharwise does the counting.",
+    "size": 92
+   },
+   {
+    "type": "shot",
+    "step": "Step 1 · Set limits",
+    "title": "Give every category a monthly limit.",
+    "sub": "Groceries, fuel, shopping, dining out. Tap a category and set how much you want to spend.",
+    "screen": "plan"
+   },
+   {
+    "type": "shot",
+    "step": "Step 2 · Watch the bar",
+    "title": "See how much is left this month.",
+    "sub": "The monthly bar fills as you spend, and categories over their limit are marked in red.",
+    "screen": "plan"
+   },
+   {
+    "type": "shot",
+    "step": "Step 3 · Compare",
+    "title": "See where the money really goes.",
+    "sub": "Charts show spending by category and compare it with last month.",
+    "screen": "rep"
+   },
+   {
+    "type": "cta",
+    "title": "Spend with a plan",
+    "sub": "Set your first budget in Gharwise.",
+    "foot": "Save this post · Send it to your partner"
+   }
+  ]
+ },
+ {
+  "id": "t05",
+  "slug": "spouse_sharing",
+  "status": "pending",
+  "caption": "Money is a team sport. 👫\n\nInvite your spouse to Gharwise with a code. See Me, Spouse and Family spending in one place and decide together who can edit.\n\nSend this to your partner. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #couplegoals",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "For couples",
+    "title": "Money is a team sport.",
+    "sub": "Here is how couples stay on the same page.",
+    "size": 96
+   },
+   {
+    "type": "shot",
+    "step": "Step 1 · Invite",
+    "title": "Send your spouse a code.",
+    "sub": "Share it on WhatsApp, by email or as a link. They install the app and join in a minute.",
+    "screen": "fam"
+   },
+   {
+    "type": "shot",
+    "step": "Step 2 · See everything",
+    "title": "Me, Spouse and Family views.",
+    "sub": "Switch between your spending, your spouse's, or the whole family's.",
+    "screen": "home_family"
+   },
+   {
+    "type": "shot",
+    "step": "Step 3 · You decide",
+    "title": "Choose who can edit.",
+    "sub": "Give view-only or edit access to each person, any time.",
+    "screen": "fam"
+   },
+   {
+    "type": "cta",
+    "title": "Plan money together",
+    "sub": "Invite your spouse to Gharwise.",
+    "foot": "Send this to your partner"
+   }
+  ]
+ },
+ {
+  "id": "t06",
+  "slug": "auto_tracking",
+  "status": "pending",
+  "caption": "Stop typing every payment. ⌨️❌\n\nGharwise reads bank SMS and email alerts and adds each spend for you. OTPs and offers are ignored.\n\nSave this post. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #upi",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Automatic tracking",
+    "title": "Stop typing every payment.",
+    "sub": "Let your bank alerts do the work.",
+    "size": 96
+   },
+   {
+    "type": "shot",
+    "step": "Option 1 · SMS",
+    "title": "Bank SMS, captured in seconds.",
+    "sub": "Connect SMS tracking and each spend appears in Gharwise right after you pay.",
+    "screen": "track"
+   },
+   {
+    "type": "shot",
+    "step": "Option 2 · Email",
+    "title": "Prefer email alerts? Use those.",
+    "sub": "Email tracking captures spends from bank emails too.",
+    "screen": "track"
+   },
+   {
+    "type": "shot",
+    "step": "Option 3 · Statement",
+    "title": "Import past payments.",
+    "sub": "Upload a bank statement to fill in what you spent before.",
+    "screen": "rep"
+   },
+   {
+    "type": "cta",
+    "title": "Track without typing",
+    "sub": "Set up automatic tracking in Gharwise.",
+    "foot": "Save this post · Share with your spouse"
+   }
+  ]
+ },
+ {
+  "id": "t07",
+  "slug": "forecast",
+  "status": "pending",
+  "caption": "What will next month cost? 🔮\n\nGharwise forecasts next month from your budgets, your usual spending and your fixed bills, and shows the expected left over.\n\nSave this post. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #financialplanning",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Forecast",
+    "title": "What will next month cost?",
+    "sub": "Know before the month begins.",
+    "size": 96
+   },
+   {
+    "type": "shot",
+    "step": "Step 1 · Everyday spending",
+    "title": "Based on your budgets.",
+    "sub": "Gharwise uses your budgets, or a typical month, and leaves out one-off big payments.",
+    "screen": "rep_next"
+   },
+   {
+    "type": "shot",
+    "step": "Step 2 · Add fixed items",
+    "title": "EMIs and bills are included.",
+    "sub": "Fixed expenses are added on top, so there are no surprises.",
+    "screen": "fixed"
+   },
+   {
+    "type": "shot",
+    "step": "Step 3 · Expected left over",
+    "title": "Plan your savings early.",
+    "sub": "See your expected money received and left over for next month.",
+    "screen": "rep_next"
+   },
+   {
+    "type": "cta",
+    "title": "Plan next month today",
+    "sub": "Try the forecast in Gharwise.",
+    "foot": "Save this post · Send it to your partner"
+   }
+  ]
+ },
+ {
+  "id": "t08",
+  "slug": "daily_spending",
+  "status": "pending",
+  "caption": "Small spends add up. ☕️\n\nGharwise shows your daily average, spend per day and every latest transaction, so you can see the habit behind the number.\n\nSave this post. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #spendingtracker",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Daily habits",
+    "title": "Small spends add up fast.",
+    "sub": "See the habit behind the number.",
+    "size": 96
+   },
+   {
+    "type": "shot",
+    "step": "See it",
+    "title": "Your spending, day by day.",
+    "sub": "A bar for every day, plus your daily average and how you compare with last month.",
+    "screen": "home"
+   },
+   {
+    "type": "shot",
+    "step": "Search it",
+    "title": "Every payment in one list.",
+    "sub": "Find any payment fast and see who paid and in which category.",
+    "screen": "list"
+   },
+   {
+    "type": "shot",
+    "step": "Understand it",
+    "title": "Spending by category.",
+    "sub": "Charts show where most of your money goes.",
+    "screen": "rep"
+   },
+   {
+    "type": "cta",
+    "title": "Spot the leaks",
+    "sub": "Start tracking with Gharwise.",
+    "foot": "Save this post · Share with your spouse"
+   }
+  ]
+ },
+ {
+  "id": "t09",
+  "slug": "five_ways",
+  "status": "pending",
+  "caption": "5 ways to take control of your money with Gharwise. 💜\n\nSave this post and send it to your spouse. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Money made simple",
+    "title": "5 ways to take control of your money.",
+    "sub": "A quick tour of Gharwise.",
+    "size": 92
+   },
+   {
+    "type": "shot",
+    "step": "1 · Save money",
+    "title": "Set a goal and save every month.",
+    "sub": "Gharwise tells you how much to put aside and whether you are on track.",
+    "screen": "goals"
+   },
+   {
+    "type": "shot",
+    "step": "2 · Save with your spouse",
+    "title": "One shared view.",
+    "sub": "Invite your spouse and see Me, Spouse and Family spending.",
+    "screen": "home_family"
+   },
+   {
+    "type": "shot",
+    "step": "3 · Plan budgets",
+    "title": "Give every category a limit.",
+    "sub": "Watch the bar fill and see what is left.",
+    "screen": "plan"
+   },
+   {
+    "type": "shot",
+    "step": "4 · Fixed expenses",
+    "title": "Add EMIs and bills once.",
+    "sub": "Gharwise plans your month and forecasts ahead.",
+    "screen": "fixed"
+   },
+   {
+    "type": "shot",
+    "step": "5 · Automatic tracking",
+    "title": "Payments added for you.",
+    "sub": "Connect bank SMS or email alerts. No typing.",
+    "screen": "track"
+   },
+   {
+    "type": "cta",
+    "title": "Start with Gharwise",
+    "sub": "Track, budget and save together.",
+    "foot": "Save this post · Share with your spouse"
+   }
+  ]
+ }
+]
