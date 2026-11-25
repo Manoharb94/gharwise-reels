@@ -51,6 +51,52 @@
   "media_id": "18376528111209054"
  },
  {
+  "id": "t10",
+  "slug": "play_store_launch",
+  "status": "pending",
+  "caption": "Gharwise is now live on Google Play! 🎉\n\nTrack every payment automatically, plan budgets and save together as a family.\n\nOpen the Play Store, search \"Gharwise\" and install it today. Link in bio.\n\nSave this post and send it to your spouse.\n\n#gharwise #familybudget #expensetracker #androidapp #newapp #personalfinanceindia #moneymanagement #couplefinance",
+  "slides": [
+   {
+    "type": "cover",
+    "kicker": "Now live on Android",
+    "title": "Gharwise is now on Google Play.",
+    "sub": "The family expense app, on your phone today.",
+    "size": 92
+   },
+   {
+    "type": "list",
+    "step": "What you get",
+    "title": "One app for your family money.",
+    "items": [
+     "✓&nbsp; Payments tracked automatically",
+     "✓&nbsp; Budgets, bills and EMIs in one place",
+     "✓&nbsp; Savings goals you can share"
+    ],
+    "foot": "See it in action →"
+   },
+   {
+    "type": "shot",
+    "step": "Together",
+    "title": "See both of you in one place.",
+    "sub": "Me, Spouse and Family views, so everyone sees where the money went.",
+    "screen": "home_family"
+   },
+   {
+    "type": "shot",
+    "step": "Automatic",
+    "title": "No typing. Payments added for you.",
+    "sub": "Connect bank SMS or email alerts and each spend appears in seconds.",
+    "screen": "track"
+   },
+   {
+    "type": "cta",
+    "title": "Get Gharwise on Google Play",
+    "sub": "Open the Play Store and search “Gharwise”.",
+    "foot": "Link in bio · Send this to your spouse"
+   }
+  ]
+ },
+ {
   "id": "t03",
   "slug": "fixed_expenses",
   "status": "pending",
