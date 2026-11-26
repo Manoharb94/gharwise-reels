@@ -101,7 +101,7 @@
  {
   "id": "t03",
   "slug": "fixed_expenses",
-  "status": "pending",
+  "status": "posted",
   "caption": "EMIs, school fees, rent, insurance: the bills that never change should never surprise you. 📅\n\nAdd them once in Gharwise with a due day, and your month is planned for you.\n\nSave this post. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #emi #homeloan",
   "slides": [
    {
@@ -142,7 +142,9 @@
     "sub": "Add your fixed expenses to Gharwise today.",
     "foot": "Save this post · Share with your spouse"
    }
-  ]
+  ],
+  "posted_at": "2026-11-26T14:01:04+05:30",
+  "media_id": "18197074408402901"
  },
  {
   "id": "t04",
