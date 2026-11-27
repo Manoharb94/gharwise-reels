@@ -149,7 +149,7 @@
  {
   "id": "t04",
   "slug": "monthly_budget",
-  "status": "pending",
+  "status": "posted",
   "caption": "A budget is just a limit you can see. 👀\n\nSet a monthly limit for groceries, fuel, dining out and more in Gharwise, and watch the bar fill as you spend.\n\nSave this post. Link in bio.\n\n#gharwise #familybudget #moneymanagement #budgetingtips #personalfinanceindia #savemoney #couplefinance #expensetracker #budget",
   "slides": [
    {
@@ -186,7 +186,9 @@
     "sub": "Set your first budget in Gharwise.",
     "foot": "Save this post · Send it to your partner"
    }
-  ]
+  ],
+  "posted_at": "2026-11-27T09:01:16+05:30",
+  "media_id": "18031950173917441"
  },
  {
   "id": "t05",
